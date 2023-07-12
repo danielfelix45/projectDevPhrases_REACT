@@ -1,4 +1,4 @@
-﻿# Gasoline X Ethanol Calculator - REACT JS
+﻿# Project Dev Phrases - REACT JS
 
 <div align="center">
 <img src="https://github.com/danielfelix45/calculatorProject-React/assets/81331726/a45b905b-7daa-4324-99d3-0a300dc4da65" width="700px" />
